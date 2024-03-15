@@ -1,2 +1,2 @@
-# IMC-Cachipun
+# Python-IMC-Cachipun
 Desafío evaluado.
